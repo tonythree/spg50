@@ -1,0 +1,16 @@
+,variant_id,gene_symbol,effect_type
+87,ap4m1:p.C319R,AP4M1,substitution
+88,ap4m1:p.E193K,AP4M1,substitution
+89,ap4m1:p.G63G,AP4M1,synonymous
+90,ap4m1:p.R306X,AP4M1,nonsense
+91,ap4m1:p.R318X,AP4M1,nonsense
+92,ap4m1:p.R338X,AP4M1,nonsense
+93,ap4m1:p.R429fs,AP4M1,frameshift
+94,ap4m1:p.R441X,AP4M1,nonsense
+95,ap4m1:p.V174fs,AP4M1,frameshift
+96,ap4m1:p.Y65fs,AP4M1,frameshift
+97,ap4m1:rs13309,AP4M1,untranslated_region
+98,ap4m1:rs1534310,AP4M1,untranslated_region
+99,ap4m1:rs2293479,AP4M1,intronic
+100,ap4m1:rs4729577,AP4M1,intronic
+101,ap4m1:rs999885,AP4M1,intronic
